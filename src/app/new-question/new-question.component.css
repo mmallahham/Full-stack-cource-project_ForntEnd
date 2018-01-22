@@ -1,0 +1,33 @@
+
+img {
+  height: 250px
+}
+
+.panel-heading {
+  padding:0;
+}
+.row {
+  padding-top: 10px;
+}
+
+h3 {
+  padding: 10px ;
+  margin: 0px;
+}
+
+button{
+  width:150px;
+}
+.panel-primary{
+  padding: 0px;
+}
+.form-control{
+  padding: 10px;
+  font-size: 18px;
+}
+.form-group{
+  padding-top: 40
+}
+.control-label{
+  font-size: 18px
+}
